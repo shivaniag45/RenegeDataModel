@@ -17,6 +17,14 @@ To develop a **predictive analytics framework** that identifies candidates at ri
 - Designed a **Power BI dashboard** to analyze **demographics**, **recruitment satisfaction**, and **offer dropout trends**.  
 - Uncovered key factors like **age**, **distance from office**, and **number of interview rounds** influencing dropouts.  
 
+The data analysis was divided into three key themes to uncover insights and trends:
+
+### 🧑‍🤝‍🧑 Theme 1: Demographic Analysis  
+- Explored candidate demographics such as **age**, **gender**, and **distance from office**.  
+- Key insight: Candidates aged **30-39** and those living farther than **20 km** had the highest offer drop-out rates.  
+
+![Demographic Analysis](/Users/shivani/Documents/Study/CSUEB/Capstone/PowerBIStuff/DemographicAnalysis.png)
+
 ### 🤖 Data Science:  
 - Built and evaluated multiple machine learning models, including **Random Forest**, **Gradient Boosting**, **Decision Tree**, and **Logistic Regression**.  
 - Achieved **97.7% accuracy** using **Random Forest**, identifying key predictors such as **Satisfaction Index** and **Days-to-Offer**.  
