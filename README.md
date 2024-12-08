@@ -23,7 +23,7 @@ The data analysis was divided into three key themes to uncover insights and tren
 - Explored candidate demographics such as **age**, **gender**, and **distance from office**.  
 - Key insight: Candidates aged **30-39** and those living farther than **20 km** had the highest offer drop-out rates.  
 
-![Demographic Analysis](/Users/shivani/Documents/Study/CSUEB/Capstone/PowerBIStuff/DemographicAnalysis.png)
+![Demographic Analysis](images/DemographicAnalysis.png)
 
 ### 🤖 Data Science:  
 - Built and evaluated multiple machine learning models, including **Random Forest**, **Gradient Boosting**, **Decision Tree**, and **Logistic Regression**.  
